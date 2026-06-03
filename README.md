@@ -20,7 +20,7 @@ End the program
 ```
 #Program to find the rank of a matrix.
 #Developed by: Jeffrin dino g.v  
-#RegisterNumber: 25013707'''
+#RegisterNumber: 25013707
 
 import numpy as np
 A=[[1,2,3],[3,6,9]]
